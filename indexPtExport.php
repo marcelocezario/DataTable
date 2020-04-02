@@ -56,8 +56,7 @@
                                 "1": "Selecionado 1 linha"
                             }
                         }
-                    },
-                    "pagingType": "full_numbers"
+                    }
                 });
             });
     </script>
